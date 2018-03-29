@@ -1,0 +1,15 @@
+{
+  "name": "symfony",
+  "version": "2.8.0",
+  "description": "projet",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arnold",
+  "license": "ISC"
+}
